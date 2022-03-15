@@ -53,19 +53,6 @@
                                     </div>
                                 </div>
                             </div>
-
-                            <div class="col-lg-6 col-sm-12">
-                                <div class="form-group">
-                                    <label>Role</label>
-                                    <div class="input-group"><span class="input-group-text"><i class="icon-email"></i></span>
-                                        <select name="role" id="role">
-                                        <option value="admin">Admin</option>
-                                        <option value="dosen">Dosen</option>
-                                        <option value="mahasiswa">Mahasiswa</option>
-                                        </select>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                         
                         <div class="form-group">

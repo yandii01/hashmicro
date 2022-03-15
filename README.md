@@ -7,6 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Cara memakai aplikasi
+1. Setelah melakukan clone project ini, maka lakukan perintah "Composer install"
+2. Setelah itu, copy paste env.example dan ubah nama filenya menjadi .env
+3. Lakukan perintah "php artisan key:generate" setelah itu jalankan "php artisan migrate atau php artisan migrate --seed"
+4. Jalankan perintah "php artisan serve" Aplikasi siap untuk digunakan.
+5. Jika ingin login gunakan (email: user@mail.com, password: password), Anda juga bisa melakukan register.
+6. Aplikasi siap digunakan.
+
+Note : http://localhost:8000 (disesuaikan dengan localhost dan port device masing-masing.)
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
